@@ -1,6 +1,6 @@
 ### Hi, I'm Thiago a full-stack web developer
 
-##I aim to impact the web community
+#I aim to impact the web community
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=constThiagoSilva&show_icons=true&theme=radical)
 
