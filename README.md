@@ -15,12 +15,12 @@
 ###
 
 <ul>
-  <li>Python</li>
-  <li>Selenium</li>
-  <li>Scrapy</li>
-  <li>PyAutoGui</li>
-  <li>BeatifulSoup</li>
-  <li>Pytest</li>
+  <li><strong>Python</strong></li>
+  <li><strong>Selenium</strong></li>
+  <li><strong>Scrapy</strong></li>
+  <li><strong>PyAutoGui</strong></li>
+  <li><strong>BeatifulSoup</strong></li>
+  <li><strong>Pytest</strong></li>
 </ul>
 
 <h2 align="left">Contact me</h2>
