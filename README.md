@@ -1,39 +1,38 @@
-###
+# Hey
 
-<h1 align="left">Hey</h1>
+I'm Thiago Silva, an Automation Developer from Brazil.
 
-<p align="left">My name is Thiago Silva and I'm a Automation developer from Brasil</p>
-<p>I'm an enthusiast of developing RPA process automations with Python, dedicated to creating automated solutions that optimize processes and free up time for more strategic activities.</p>
-<p>My journey in technology began in 2020, while still in technical high school, where I graduated from the Systems Development course. Initially, I fell in love with web development and dedicated a good part of the school period to learning tools like JavaScript and React.</p>
-<p>But it was during my first internship where I found myself as a programmer. I had my first contact with Python and RPA, and since then, I have been dedicating my time to this area because I believe that with automation, it's possible to improve people's lives and well-being by saving time that RPA provides.</p> 
-<p>And to perfect and put into practice all that I've learned, I'm seeking internship opportunities to further my career.</p>
-<li><span>Interesting fact: love make beats</span></li>
+I'm passionate about crafting RPA (Robotic Process Automation) solutions using Python. My focus is on building automated workflows to streamline processes and empower strategic decision-making.
 
+My journey into technology commenced in 2020 during my enrollment in a technical high school, where I specialized in the Systems Development course. Initially drawn to web development, I delved into mastering tools like JavaScript and React.
 
-<h1 align="left">Tecnologies i work with and study</h1>
+However, it was during my first internship that I discovered my fervor for programming. Python and RPA captured my interest, and since then, I've been committed to this field, driven by the belief that automation can significantly enhance people's lives by saving time and boosting efficiency.
 
-###
+Currently, I'm seeking internship opportunities to further propel my career.
 
-<ul>
-  <li><strong>Python</strong></li>
-  <li><strong>Selenium</strong></li>
-  <li><strong>Scrapy</strong></li>
-  <li><strong>PyAutoGui</strong></li>
-  <li><strong>BeatifulSoup</strong></li>
-  <li><strong>Pytest</strong></li>
-</ul>
+- Fun fact: I have a knack for making beats.
 
-<h2 align="left">Contact me</h2>
+## Areas and Technologies I Work With and Study
+- Python
+- Web Automation
+  - Selenium
+- Desktop Automation
+  - PyAutoGui
+- Web Scraping
+  - Scrapy
+  - BeautifulSoup
 
-###
+### Other Skills
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/thiagopdasilva/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=thiago.p.dasilva2005#gmail.com&tf=1">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+- Clean Code
+- Testing Concepts
+- Data Structures and Algorithms
+- Relational Databases
+- Web Development within the JavaScript Ecosystem
 
-###
+## Contact Me
+
+You can connect with me via:
+
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/thiagopdasilva/)
+[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:thiago.p.dasilva2005@gmail.com)
