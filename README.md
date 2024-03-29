@@ -32,7 +32,5 @@ Currently, I'm seeking internship opportunities to further propel my career.
 
 ## Contact Me
 
-You can connect with me via:
-
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/thiagopdasilva/)
 [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:thiago.p.dasilva2005@gmail.com)
