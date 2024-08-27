@@ -27,7 +27,7 @@ Currently, I'm seeking internship opportunities to further propel my career.
 - Clean Code
 - Testing Concepts
 - Data Structures and Algorithms
-- Relational Databases
+- Relational and NoSQL Databases
 - Web Development within the JavaScript Ecosystem
 
 ## Contact Me
